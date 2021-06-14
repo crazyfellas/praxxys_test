@@ -18,7 +18,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone this repository to your local machine or just download the zip from the above green button.
    ```sh
-   https://github.com/crazyfellas/praxxys-test.git
+  https://github.com/crazyfellas/praxxys_test.git
 
 2. Create .env file or edit .env.example and add your database
    ```sh

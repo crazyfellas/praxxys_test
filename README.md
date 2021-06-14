@@ -46,6 +46,11 @@ This is an example of how to list things you need to use the software and how to
 6. Start the development server.
  ```sh
    php artisan serve
+   
+   
+   You can use my default access.
+   Username: glenn@gmail.com
+   Password: 12345678
    ```
 
 
